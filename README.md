@@ -1,5 +1,5 @@
 # r5reloaded-updaters
-Three shell scripts updaters/installers for R5Reloaded.
+Three shell scripts for R5Reloaded that update/install.
 
   [1.](https://github.com/begin-theadventure/r5reloaded-updaters/releases/download/r5reloaded-updaters/r5reloaded-update-all.sh) All = depot and scripts.
   
