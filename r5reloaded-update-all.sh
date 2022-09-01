@@ -14,6 +14,9 @@ echo "# Unzip the depot and replace all existing files.."
 echo "# Unzip the scripts"
     unzip -o scripts.zip
 
+echo "# Create scripts directory if it doesn't exist"
+    mkdir -p -- ../platform/scripts
+
 echo "# Copy the updated scripts to /platform/scripts and replace the old ones."
     cd scripts_r5-S3_N1094
     cp -r * ../platform/scripts
