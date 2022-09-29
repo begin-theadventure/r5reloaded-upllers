@@ -1,5 +1,5 @@
 echo "# Start"
-echo "# R5Reloaded git scripts updater."
+echo "# R5Reloaded git scripts updater/installer."
 
 echo "# Download scripts"
     	curl https://github.com/Mauler125/scripts_r5/archive/refs/heads/S3_N1094.zip -Lo scripts.zip
