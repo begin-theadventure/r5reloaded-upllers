@@ -1,5 +1,5 @@
 echo "# Start"
-echo "# R5Reloaded depot and git scripts updater."
+echo "# R5Reloaded depot and git scripts updater/installer."
 
 echo "# Download depot"
     	curl https://github.com/Mauler125/r5sdk/releases/latest/download/depot.zip -LO
