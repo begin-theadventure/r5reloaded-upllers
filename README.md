@@ -7,7 +7,7 @@ Three shell script **up**daters/insta**llers** for R5Reloaded.
 
 3. r5r-upller-all.sh - depot and git scripts.
 
-4. r5r_flowstate-upller-scripts.sh - This script is recommended for Flowstate.
+4. r5r_flowstate-upller-scripts.sh - this script is recommended for Flowstate.
 
 They work in the current directory so put them in the game folder. Before using, allow executing.
 
