@@ -1,5 +1,5 @@
 # r5reloaded-upllers
-Three shell script **up**daters/insta**llers** for R5Reloaded.
+R5Reloaded shell script **up**daters/insta**llers** for Linux.
 
 1. r5r-upller-depot.sh - only depot (release scripts included). This script is recommended for vanilla R5R.
 
