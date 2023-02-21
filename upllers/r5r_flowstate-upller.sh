@@ -29,8 +29,10 @@ echo "# Open r5_flowstate-scripts"
 echo "# Copy the updated scripts to /platform/scripts and replace the old ones..."
     	cp -r * ../platform/scripts
 
+echo "# Update done! 🐸"
+
 echo "# Cleanup.."
-    cd ..
+	cd ..
 echo "# Remove Flowstate-Required-Files"
     	rm -dr Flowstate-Required-Files
     	rm Flowstate-Required-Files.zip
