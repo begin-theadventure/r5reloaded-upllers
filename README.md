@@ -1,4 +1,5 @@
-# r5reloaded-upllers
+# superseded by [r5r_installer](https://github.com/SlaveBuild/r5r_installer)
+## r5reloaded-upllers
 R5Reloaded shell script **up**daters/insta**llers** for Linux.
 
 1. [r5r-upller-depot.sh](https://github.com/begin-theadventure/r5reloaded-upllers/releases/download/r5reloaded-upllers/r5r-upller-depot.sh) - only depot (release scripts included). This script is recommended for vanilla [R5Reloaded](https://github.com/Mauler125/r5sdk).
