@@ -1,4 +1,4 @@
-# superseded by [r5r_installer](https://github.com/SlaveBuild/r5r_installer), which [runs](https://github.com/begin-theadventure/lutris-scripts/tree/main/lutris-scripts/R5Reloaded) on linux with Wine
+# superseded by [r5r_installer](https://github.com/SlaveBuild/r5r_installer), which [runs](https://github.com/begin-theadventure/lutris-scripts/tree/main/lutris-scripts/R5Reloaded) on Linux with Wine
 ## r5reloaded-upllers
 R5Reloaded shell script **up**daters/insta**llers** for Linux.
 
